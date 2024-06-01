@@ -1,1 +1,1 @@
-BASE_URL = "https://attack.mitre.org/matrices/enterprise/"
+BASE_URL = "https://attack.mitre.org/"
